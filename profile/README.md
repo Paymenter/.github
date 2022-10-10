@@ -5,6 +5,6 @@ We are Paymenter, a payment system for everyone. We are focussed on open-sourced
 
 For more info join our discord!
 
-**[Discord](https://discord.gg/hggUZYxzdE)**
+**[Discord](https://discord.gg/cVRnEF8gnA)**
 
 Fun fact: we drank more than 5000 cups of coffee
