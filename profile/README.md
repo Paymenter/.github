@@ -8,10 +8,6 @@ Paymenter is an open source gateway for hosting companies. Paymenter is develope
 - https://paymenter.org/
 - hello@paymenter.org
 
-For any questions or feedback please contact:
-- </Corwin>#0001
-- Techno1Monkey#142
-
 Fun fact: we drank more than 5000 cups of coffee
 
 _This project is powered by CoreWare & Weijers1_
