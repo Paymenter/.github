@@ -7,7 +7,3 @@ Paymenter is an open source gateway for hosting companies. Paymenter is develope
 - https://discord.gg/v42TvwT58H
 - https://paymenter.org/
 - hello@paymenter.org
-
-Fun fact: we drank more than 5000 cups of coffee
-
-_This project is powered by CoreWare & Weijers1_
