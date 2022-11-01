@@ -4,6 +4,6 @@ Paymenter is an open source gateway for hosting companies. Paymenter is develope
 
 **Usefull information:**
 - https://github.com/Paymenter
-- https://discord.gg/v42TvwT58H
+- https://discord.gg/xB4UUT3XQg
 - https://paymenter.org/
 - hello@paymenter.org
